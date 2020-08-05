@@ -5,5 +5,9 @@
 -  Pixel Art Lover
 -  Enthusiastic Memer
 
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starbuckr&theme=tokyonight" />
+
+![](https://komarev.com/ghpvc/?username=starbuckr&color=blue&style=plastic)
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=starbuckr&show_icons=true&theme=tokyonight&hide=issues" />
